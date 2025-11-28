@@ -1,0 +1,10 @@
+	Responsive Navigation Menu – Day 1
+o	Concepts covered: navigation styling, positioning, flexbox/grid, media queries. 
+o	What students learn: how to build a navbar that looks good on desktop and collapses into a simple vertical menu on small screens. 
+o	A horizontal navigation bar with links, styled with hover effects. On smaller screens, links stack vertically. 
+
+
+	Profile Card with Hover Effect – Day 1
+o	Concepts covered: borders, box-shadow, hover effects, flexbox, margins/padding. 
+o	What students learn: how to style a card, align content. 
+o	A simple card with a profile picture and social links. On hover, the card slightly scales up and social links show hover effect. 
